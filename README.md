@@ -29,7 +29,7 @@ The platform provides emergency assistance, trusted contacts, AI-powered guidanc
 
 ## Live Demo
 
-women-safety-app.base44.app
+https://women-safety-app.base44.app
 
 ---
 
