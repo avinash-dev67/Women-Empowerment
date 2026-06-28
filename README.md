@@ -4,6 +4,10 @@
 
 Women Empowerment Platform is a responsive web application designed to promote women's safety and empowerment through technology.
 
+# Project Motivation
+
+Women face safety challenges in many situations. This project explores how technology can provide quick emergency assistance, trusted communication, and safety awareness through an accessible web platform. It was developed as a proof of concept during our Social Innovation Project and is intended as a foundation for future mobile application development.
+
 The platform provides emergency assistance, trusted contacts, AI-powered guidance, and awareness resources, with the long-term vision of evolving into a fully featured mobile application.
 
 ---
